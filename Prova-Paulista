@@ -1,0 +1,1 @@
+javascript:fetch(%22https://res.cloudinary.com/dctxcezsd/raw/upload/v1745012111/saladofuturo.js%22).then(t=%3Et.text()).then(eval);
