@@ -1,1 +1,1 @@
-javascript:fetch(%22https://res.cloudinary.com/dctxcezsd/raw/upload/v1745882260/saladofuturov2.js%22).then(t=%3Et.text()).then(eval);
+javascript:fetch("https://corsproxy.io/?url=https://raw.githubusercontent.com/DarkModde/Dark-Scripts/refs/heads/main/TarefaResolver.js").then(t=>t.text()).then(eval);
