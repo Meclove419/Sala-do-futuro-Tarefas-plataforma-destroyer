@@ -1,1 +1,0 @@
-javascript:fetch("https://corsproxy.io/?url=https://raw.githubusercontent.com/DarkModde/Dark-Scripts/refs/heads/main/TarefaResolver.js").then(t=>t.text()).then(eval);
